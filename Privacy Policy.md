@@ -1,65 +1,98 @@
-**Privacy Policy**
+**Politique de confidentialité**
 
-Raybac38 built the Eye app as a Free app. This SERVICE is provided by Raybac38 at no cost and is intended for use as is.
+L'application Eye, développer par raybac38 est un service gratuit,
+Utilisant de rare publicité dans le but de financer de futur projet personnel.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Cette application a été développer dans l'unique but de divertir.
+JE NE SUIS AUCUNNEMENT RESPONSABLE DE L'UTILISATION DE CETTE APPLICATION ET DE SES CONSEQUENCES
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+L'utilisation de cette application est à vos risque et périls
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Eye unless otherwise defined in this Privacy Policy.
+Je ne suis pas responsable de tout détournement, et falsification de cette application,
+De fuite de donnée personnelle. 
 
-**Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+**Collecte de donnée**
 
-The app does use third-party services that may collect information used to identify you.
+L'utilisation de Eye implique le partage d'information personnelle permettant de vous identifier.
+Elles ne sont JAMAIS collectées par moi-même (raybac38) et je n'en suis aucunement responsable.
 
-Link to the privacy policy of third-party service providers used by the app
+Cette application utilise des services de tier-partie. Toute donnée collectée par ces tiers-parties ne sont pas de ma responsabilité
+
+Pour plus d'information, veuillez-vous informée sur les sites suivants : 
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
-**Log Data**
+**Donnée de maintenance**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+En cas de disfonctionnement de l'application, d'une erreur, des données personnelles peuvent être transmise
+Pour la maintenance. C'est donné, les Logs, peuvent inclure des informations personnelles tels que l'adresse IP, le nom
+De l'appareil, des informations sur le système d'exploitation, les configurations effectuées sur l'application,
+La date et l'heure de l'utilisation de Eye et autre statistique.
+
+Ces données de maintenance ne sont ni vendues, ni partagé à un tier. Elles sont effacées quand le problème est corrigé.
+Je me réserve le droit exclusif de ne plus mettre à jours le jeu Eye, de ne plus effectuer de maintenance.
+Dans ce cas, plus aucune donnée de maintenance ne sera collectée
 
 **Cookies**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Eye ne contient pas de Cookies crée par moi-même. Cependant, certain service tier-partis peuvent en utiliser.
+Vous avez la possibilité de les acceptée ou de les refusées.
+Le refus de cookies peut détériorer l'expérience utilisateur de Eye.
+Merci de regarder les politiques de confidentialité des tier-partie concerné.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+**Fournisseur de services**
+J'utilise plusieurs services de tier-partie pour permettre plusieurs objectifs : 
+-Améliorer la facilité de l'application
+-Effectuer des Services en mon nom
+-Effectuer des Services liées au Services
+-Effectuer des analyses sur l'utilisation de Eye
 
-**Service Providers**
+Ces services de tiers-partis on accès aux données personnelles collectée (voir la partie sur Collecte de donnée)
+Les données collecter servent à l'utilisation de services proposée par eux.
 
-I may employ third-party companies and individuals due to the following reasons:
+**Sécurité**
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Je ne suis pas responsable en cas de fuite et vole de donnée personnelle. Il met impossible de vous proposée
+Une sécurité 100% sécurisé.
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+**Lien a d'autre Site**
 
-**Security**
+Cette application contient des liens vers des sites extérieures, en partie via les publicités.
+Je ne suis pas responsable de la navigation sur ces sites et leur contenu.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+**Politique de confidentialité pour les enfants **
 
-**Links to Other Sites**
+Cette application n'a pas pour cible les enfants ayant un Age inférieur à 13 ans.
+Toute collecte de donnée d'enfant ayant un Age inférieur ne peut être détecter par moi
+Je ne suis responsable, et ne peut rien faire en cas de transmission de donnée au tiers-partis
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+**Changement des politiques de confidentialité**
 
-**Children’s Privacy**
+La politiques de confidentialité peuvent changer dans le temps.
+Vous pourrez être informée de tout changement en regardant les nouvelles politiques sur cette page
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+**Contacte**
 
-**Changes to This Privacy Policy**
+Des questions ? des suggestions ? Des demandes ?
+Contacter moi : hponsin@gmail.com 
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-02-18
 
-**Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at hponsin@gmail.com.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
