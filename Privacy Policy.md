@@ -1,7 +1,6 @@
 **Politique de confidentialité**
 
 L'application Eye, développer par raybac38 est un service gratuit,
-Utilisant de rare publicité dans le but de financer de futur projet personnel.
 
 Cette application a été développer dans l'unique but de divertir.
 JE NE SUIS AUCUNNEMENT RESPONSABLE DE L'UTILISATION DE CETTE APPLICATION ET DE SES CONSEQUENCES
@@ -9,7 +8,7 @@ JE NE SUIS AUCUNNEMENT RESPONSABLE DE L'UTILISATION DE CETTE APPLICATION ET DE S
 L'utilisation de cette application est à vos risque et périls
 
 Je ne suis pas responsable de tout détournement, et falsification de cette application,
-De fuite de donnée personnelle. 
+ou de fuite de donnée personnelle. 
 
 
 **Collecte de donnée**
@@ -59,7 +58,7 @@ Une sécurité 100% sécurisé.
 
 **Lien a d'autre Site**
 
-Cette application contient des liens vers des sites extérieures, en partie via les publicités.
+Cette application peut contenir des liens vers des sites extérieures, en partie via les publicités.
 Je ne suis pas responsable de la navigation sur ces sites et leur contenu.
 
 **Politique de confidentialité pour les enfants **
