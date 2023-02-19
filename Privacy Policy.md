@@ -72,11 +72,6 @@ Je ne suis responsable, et ne peut rien faire en cas de transmission de donnée 
 La politiques de confidentialité peuvent changer dans le temps.
 Vous pourrez être informée de tout changement en regardant les nouvelles politiques sur cette page
 
-**Contacte**
-
-Des questions ? des suggestions ? Des demandes ?
-Contacter moi : hponsin@gmail.com 
-
 
 
 
